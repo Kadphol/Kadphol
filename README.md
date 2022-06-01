@@ -1,6 +1,6 @@
 <img src="https://github.com/Kadphol/Kadphol/blob/main/header.png" alt="Kadphol - software engineer">
 
-👋 Hi, I’m currently a Software Engineer at KBTG
+👋 Hi, I’m currently a Full-Stack Developer at Pomelo Fashion
 
 :book: How to reach me: kadphol.len@outlook.co.th
 
