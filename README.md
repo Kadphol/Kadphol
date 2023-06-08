@@ -1,6 +1,6 @@
 <img src="https://github.com/Kadphol/Kadphol/blob/main/header.png" alt="Kadphol - software engineer">
 
-👋 Hi, I’m currently a Full-Stack Developer at Pomelo Fashion
+👋 Hi, I’m currently a Frontend Developer at 7Solutions
 
 :book: How to reach me: kadphol.len@outlook.co.th
 
