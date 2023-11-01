@@ -1,6 +1,6 @@
 <img src="https://github.com/Kadphol/Kadphol/blob/main/header.png" alt="Kadphol - software engineer">
 
-👋 Hi, I’m currently a Frontend Developer at 7Solutions
+👋 Hi, I’m currently a Frontend Developer
 
 :book: How to reach me: kadphol.len@outlook.co.th
 
