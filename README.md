@@ -100,6 +100,14 @@
 
 ###
 
+<h3 align="left">⭐   Badge :</h3>
+
+###
+
+[![An image of @kadphol's Holopin badges, which is a link to view their full Holopin profile](https://www.holopin.io/kadphol)](https://www.holopin.io/@kadphol)
+
+###
+
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
