@@ -104,7 +104,7 @@
 
 ###
 
-[![An image of @kadphol's Holopin badges, which is a link to view their full Holopin profile](https://www.holopin.io/kadphol)](https://www.holopin.io/@kadphol)
+[![An image of @kadphol's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kadphol)](https://holopin.io/@kadphol)
 
 ###
 
