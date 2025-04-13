@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Mark from Bangkok, Thailand.<br><br>- 🔭 I’m working as Web Developer<br>- 📚 I'm currently learning Sveltekit and Go<br>- 👀 I'm looking forward to contribute for open source community.</p>
+<p align="left">I'm Mark from Bangkok, Thailand.<br><br>- 🔭 I’m working as Frontend Developer<br>- 📚 I'm currently learning Sveltekit and Rust<br>- 👀 I'm looking forward to contribute for open source community.</p>
 
 ###
 
